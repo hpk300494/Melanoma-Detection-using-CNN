@@ -31,6 +31,13 @@ The model is built entirely using **TensorFlow and Keras** without using transfe
 - 2,357 dermoscopic images
 - 9 disease classes
 - Separate Train and Test directories
+- ## 🔗 Dataset
+
+The dataset used in this project is publicly available on Kaggle:
+
+https://www.kaggle.com/datasets/nodoubttome/skin-cancer9-classesisic
+
+Due to GitHub file size limitations, the dataset is not included in this repository.
 
 ### Classes
 
