@@ -1,0 +1,11 @@
+tensorflow>=2.10
+keras
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+Pillow
+Augmentor
+jupyter
+ipykernel
