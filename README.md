@@ -111,6 +111,11 @@ The project demonstrates the complete deep learning workflow for multiclass medi
 - Model evaluation
 - Performance improvement through iterative experimentation
 
+The baseline CNN achieved **90.26% training accuracy** and **53.17% validation accuracy**, showing clear overfitting.
+
+Applying data augmentation reduced the train–validation gap and produced a best validation accuracy of **58.64%**. Class balancing with Augmentor increased training accuracy substantially, but validation performance remained unstable and peaked at **62.95%**, indicating continued overfitting.
+
+Overall, data augmentation provided the most balanced performance, while transfer learning was identified as a suitable next step for improving generalization.
 ---
 
 ## 📈 Future Improvements
